@@ -9,7 +9,10 @@ This is a Python port of genetic algorithm code from Daniel Shiffman's [Tutorial
 ![](Screenshot.png)
 
 ---
+## Writeup
+You can read my writeup [here](https://ashwinvaidya.com/blog/Generating-Strings-Using-Genetic-Algorithm)
 
+---
 ## License
 Code released under MIT License
 
